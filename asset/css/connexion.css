@@ -1,0 +1,13 @@
+/* FORMULAIRE */
+.connexion {
+    width: 50%;
+    margin-top: 10%;
+    margin-left: 25%;
+    background-color: rgb(232, 194, 194);
+    padding: 25px;
+}
+
+.input_connexion {
+    margin-top: 20px;
+    
+}

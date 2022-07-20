@@ -3,12 +3,13 @@
 ?>
 
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="en">
 <head>
     <?= $head ?>
-    <title>Stage Zeineb</title>
+    <title>Inscription</title>
 </head>
 <body>
     <?= $header ?>
+    
 </body>
 </html>
